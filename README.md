@@ -1,2 +1,2 @@
 # InterDev
-This is a course in CanTho University Software Center : International Developer - Aptech
+This is a course at CanTho University Software Center : International Developer - Aptech
